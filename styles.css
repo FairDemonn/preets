@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #e3acf9;
+  font-family: "Kanit", sans-serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: "Fredoka One", cursive;
+  font-size: 5.625rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+}
+
+.top-container {
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container {
+  padding-top: 100px;
+  position: relative;
+}
+
+.bottom-container {
+  padding-top: 100px;
+  position: relative;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.profile {
+  display: inline-block;
+  height: 300px;
+  width: 300px;
+}
+
+.skill-one {
+  display: inline-block;
+  height: 300px;
+  width: 300px;
+}
+
+.skill-two {
+  display: inline-block;
+  height: 300px;
+  width: 300px;
+}
+
+.skill1 {
+  display: inline-block;
+  width: 300px;
+}
+
+.skill2 {
+  display: inline-block;
+  width: 300px;
+}
